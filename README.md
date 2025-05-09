@@ -8,3 +8,6 @@ https://youtu.be/QRYHbNtRfys
 [intro.pdf](https://github.com/user-attachments/files/19270194/intro.pdf)
 
 자세한 사항과 구현 관련 글은 위 소개글을 참고해주시길 바랍니다.
+
+# TODO
+아마도 LLVM을 사용한 모듈형을 구성해서 실제 x86 컴파일로 바꾸는것
